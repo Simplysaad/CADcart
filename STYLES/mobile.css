@@ -57,6 +57,7 @@ header .container .logo-box{
 }
 header .container .logo-box .logo-image  .fa-bars{
     font-size: 1.9rem;
+    display: contents;
 }
 
 header .container .search-box{
